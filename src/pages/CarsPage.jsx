@@ -5,12 +5,12 @@ import CarsList from '../components/CarsList';
 
 export default function CarsPage() {
     return (
-        <div>
+        <div className="min-h-screen flex flex-col">
             <Navbar />
-            <div className="p-6">
+            <main className="flex-1 w-full max-w-7xl mx-auto px-4 sm:px-6 py-6 sm:py-8">
                 <Heading text="Cars Page" />
                 <CarsList />
-            </div>
+            </main>
             <Footer />
         </div>
     );
