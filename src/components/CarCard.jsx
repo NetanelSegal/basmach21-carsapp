@@ -1,3 +1,5 @@
+import EngineType from "./EngineType";
+
 export default function CarCard({ car }) {
     return (
         <div className="flex flex-col gap-2 border border-gray-200 rounded-2xl p-3 sm:p-4 shadow-sm h-full">
@@ -10,7 +12,7 @@ export default function CarCard({ car }) {
             <p className="text-sm sm:text-base text-gray-600">{car.type}</p>
             <p className="text-sm sm:text-base">Year: {car.year}</p>
             <p className="text-sm sm:text-base font-semibold">${car.price_usd.toLocaleString()}</p>
-            <p className="text-sm sm:text-base">{car.is_electric ? '⚡ Electric' : '⛽ Gas'}</p>
+            <EngineType is_electric={car.is_electric} />
             <button className="mt-auto w-full bg-blue-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600 text-sm sm:text-base">
                 Add to cart
             </button>

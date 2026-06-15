@@ -1,3 +1,5 @@
+import EngineType from "./EngineType";
+
 export default function Navbar() {
     return (
         <nav className="bg-gray-900 text-white px-4 sm:px-6 py-4">
