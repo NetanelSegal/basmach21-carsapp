@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "make": "Tesla",
+    "model": "Model S",
+    "type": "Electric Sedan",
+    "year": 2026,
+    "price_usd": 89990,
+    "is_electric": true,
+    "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&w=400&h=250&q=80"
+  },
+  {
+    "id": 2,
+    "make": "Ford",
+    "model": "Mustang Mach-E",
+    "type": "Electric SUV",
+    "year": 2026,
+    "price_usd": 45995,
+    "is_electric": true,
+    "image": "https://images.unsplash.com/photo-1606016159991-dfe4f2746ad5?auto=format&fit=crop&w=400&h=250&q=80"
+  },
+  {
+    "id": 3,
+    "make": "Toyota",
+    "model": "Camry Hybrid",
+    "type": "Hybrid Sedan",
+    "year": 2026,
+    "price_usd": 29495,
+    "is_electric": false,
+    "image": "https://images.unsplash.com/photo-1621007947382-bb3c3994d3fb?auto=format&fit=crop&w=400&h=250&q=80"
+  },
+  {
+    "id": 4,
+    "make": "BMW",
+    "model": "M4 Competition",
+    "type": "Sports Coupe",
+    "year": 2026,
+    "price_usd": 79100,
+    "is_electric": false,
+    "image": "https://images.unsplash.com/photo-1617531653332-bd46c24f2068?auto=format&fit=crop&w=400&h=250&q=80"
+  },
+  {
+    "id": 5,
+    "make": "Porsche",
+    "model": "911 Carrera",
+    "type": "Sports Car",
+    "year": 2026,
+    "price_usd": 120100,
+    "is_electric": false,
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=400&h=250&q=80"
+  },
+  {
+    "id": 6,
+    "make": "Chevrolet",
+    "model": "Corvette Stingray",
+    "type": "Sports Car",
+    "year": 2025,
+    "price_usd": 69900,
+    "is_electric": false,
+    "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=400&h=250&q=80"
+  },
+  {
+    "id": 7,
+    "make": "Audi",
+    "model": "e-tron GT",
+    "type": "Electric Sedan",
+    "year": 2026,
+    "price_usd": 106500,
+    "is_electric": true,
+    "image": "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?auto=format&fit=crop&w=400&h=250&q=80"
+  },
+  {
+    "id": 8,
+    "make": "Jeep",
+    "model": "Wrangler Rubicon",
+    "type": "Off-Road SUV",
+    "year": 2026,
+    "price_usd": 49595,
+    "is_electric": false,
+    "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=400&h=250&q=80"
+  },
+  {
+    "id": 9,
+    "make": "Mercedes-Benz",
+    "model": "G-Class",
+    "type": "Luxury SUV",
+    "year": 2026,
+    "price_usd": 143000,
+    "is_electric": false,
+    "image": "https://images.unsplash.com/photo-1520050206274-a1ae446cb3cc?auto=format&fit=crop&w=400&h=250&q=80"
+  },
+  {
+    "id": 10,
+    "make": "Honda",
+    "model": "Civic Type R",
+    "type": "Hot Hatchback",
+    "year": 2026,
+    "price_usd": 43795,
+    "is_electric": false,
+    "image": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?auto=format&fit=crop&w=400&h=250&q=80"
+  },
+  {
+    "id": 11,
+    "make": "Hyundai",
+    "model": "Ioniq 5",
+    "type": "Electric Crossover",
+    "year": 2026,
+    "price_usd": 42500,
+    "is_electric": true,
+    "image": "https://images.unsplash.com/photo-1669837126744-abeb861ff54c?auto=format&fit=crop&w=400&h=250&q=80"
+  },
+  {
+    "id": 12,
+    "make": "Rivian",
+    "model": "R1T",
+    "type": "Electric Truck",
+    "year": 2026,
+    "price_usd": 73000,
+    "is_electric": true,
+    "image": "https://images.unsplash.com/photo-1669046514930-b2172778da52?auto=format&fit=crop&w=400&h=250&q=80"
+  },
+  {
+    "id": 13,
+    "make": "Lexus",
+    "model": "RX 500h",
+    "type": "Luxury Hybrid SUV",
+    "year": 2026,
+    "price_usd": 64100,
+    "is_electric": false,
+    "image": "https://images.unsplash.com/photo-1619767886558-efdc259cde1a?auto=format&fit=crop&w=400&h=250&q=80"
+  },
+  {
+    "id": 14,
+    "make": "Nissan",
+    "model": "Z Performance",
+    "type": "Sports Coupe",
+    "year": 2025,
+    "price_usd": 53210,
+    "is_electric": false,
+    "image": "https://images.unsplash.com/photo-1626847037657-fd3622613ce3?auto=format&fit=crop&w=400&h=250&q=80"
+  },
+  {
+    "id": 15,
+    "make": "Land Rover",
+    "model": "Defender 110",
+    "type": "Luxury Off-Road SUV",
+    "year": 2026,
+    "price_usd": 62000,
+    "is_electric": false,
+    "image": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?auto=format&fit=crop&w=400&h=250&q=80"
+  },
+  {
+    "id": 16,
+    "make": "Subaru",
+    "model": "Outback Wilderness",
+    "type": "Crossover Wagon",
+    "year": 2026,
+    "price_usd": 40100,
+    "is_electric": false,
+    "image": "https://images.unsplash.com/photo-1606225457115-9b0de873c5db?auto=format&fit=crop&w=400&h=250&q=80"
+  },
+  {
+    "id": 17,
+    "make": "Kia",
+    "model": "EV9",
+    "type": "Electric 3-Row SUV",
+    "year": 2026,
+    "price_usd": 56200,
+    "is_electric": true,
+    "image": "https://images.unsplash.com/photo-1709923804365-27a0d4c82cc7?auto=format&fit=crop&w=400&h=250&q=80"
+  },
+  {
+    "id": 18,
+    "make": "Mazda",
+    "model": "CX-90",
+    "type": "Inline-6 SUV",
+    "year": 2026,
+    "price_usd": 39300,
+    "is_electric": false,
+    "image": "https://images.unsplash.com/photo-1532581291347-9c39cf10a73c?auto=format&fit=crop&w=400&h=250&q=80"
+  },
+  {
+    "id": 19,
+    "make": "Lucid",
+    "model": "Air Pure",
+    "type": "Electric Luxury Sedan",
+    "year": 2026,
+    "price_usd": 71400,
+    "is_electric": true,
+    "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?auto=format&fit=crop&w=400&h=250&q=80"
+  },
+  {
+    "id": 20,
+    "make": "Aston Martin",
+    "model": "Vantage",
+    "type": "Supercar",
+    "year": 2026,
+    "price_usd": 191000,
+    "is_electric": false,
+    "image": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&w=400&h=250&q=80"
+  }
+]

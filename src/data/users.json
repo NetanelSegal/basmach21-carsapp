@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Rivera",
+    "description": "Senior Software Engineer specializing in React and Node.js. Avid hiker and coffee enthusiast.",
+    "image": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&h=150&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Chen",
+    "description": "UX/UI Designer passionate about creating accessible and intuitive digital experiences. Watercolor painter in her free time.",
+    "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&h=150&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Marcus Johnson",
+    "description": "Data Scientist with a knack for turning complex data sets into actionable business insights. Amateur chef.",
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Elena Rostova",
+    "description": "Digital Marketing Manager focused on growth hacking and community building. Speaks four languages fluently.",
+    "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&h=150&q=80"
+  },
+  {
+    "id": 5,
+    "name": "David Kim",
+    "description": "Product Manager dedicated to building tools that empower remote teams. Lifelong sci-fi book worm.",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&h=150&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Maya Patel",
+    "description": "Cybersecurity Analyst keeping digital assets safe from threats. Enjoys rock climbing and playing the bass guitar.",
+    "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=150&h=150&q=80"
+  },
+  {
+    "id": 7,
+    "name": "Lucas Silva",
+    "description": "Creative Director with over a decade of experience branding tech startups. Dog dad to a very energetic golden retriever.",
+    "image": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=150&h=150&q=80"
+  },
+  {
+    "id": 8,
+    "name": "Chloe Bennett",
+    "description": "Content Strategist and copywriter who loves telling compelling brand stories. Vinyl record collector.",
+    "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=150&h=150&q=80"
+  },
+  {
+    "id": 9,
+    "name": "Tariq Mahmood",
+    "description": "DevOps Engineer obsessed with automation, CI/CD pipelines, and cloud architecture. Weekend marathon runner.",
+    "image": "https://images.unsplash.com/photo-1628157582853-a796fa650a6a?auto=format&fit=crop&w=150&h=150&q=80"
+  },
+  {
+    "id": 10,
+    "name": "Olivia Vance",
+    "description": "HR Generalist focused on building inclusive company cultures and talent acquisition. Photography enthusiast.",
+    "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=150&h=150&q=80"
+  }
+]
